@@ -3,11 +3,9 @@
 ## 📌 Popis projektu | Project Description
 **🇨🇿 Česky:**  
 Tento projekt je **GUI aplikace pro správu poznámek** v **C#** s podporou přihlašování a úprav poznámek.  
-Byl vytvořen jako součást semestrální práce v předmětu **"Vývoj aplikací"**.  
 
 **🇬🇧 English:**  
-This project is a **GUI application for managing notes** in **C#**, featuring user authentication and note editing.  
-It was created as part of a semester project for the **"Application Development"** course.  
+This project is a **GUI application for managing notes** in **C#**, featuring user authentication and note editing.   
 
 ---
 
@@ -28,12 +26,10 @@ It was created as part of a semester project for the **"Application Development"
 - **C# (.NET)**
 - **Windows Forms (WinForms)**
 - **Databázové úložiště (SQLite / XML / JSON)**  
-- **Multithreading (pokud je implementováno)**  
 
 - **C# (.NET)**
 - **Windows Forms (WinForms)**
 - **Database Storage (SQLite / XML / JSON)**  
-- **Multithreading (if implemented)**  
 
 ---
 
